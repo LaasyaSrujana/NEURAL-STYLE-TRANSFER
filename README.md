@@ -68,3 +68,4 @@ This project showcases how deep learning can create novel artwork by blending vi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/219b721c-f30b-425a-9b9d-b521e7bdf7c7)
